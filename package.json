@@ -1,0 +1,28 @@
+{
+  "name": "ytautouploader",
+  "version": "1.0.0",
+  "description": "yet Another Unlimite Youtube Video Uploader Bot made by Puppeteer",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdciabdul/Youtube-Uploader.git"
+  },
+  "keywords": [
+    "youtube",
+    "bot"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/Youtube-Uploader/issues"
+  },
+  "homepage": "https://github.com/fdciabdul/Youtube-Uploader#readme"
+}
