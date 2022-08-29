@@ -4,7 +4,7 @@
   "description": "yet Another Unlimite Youtube Video Uploader Bot made by Puppeteer",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^16.0.0",
+    "puppeteer": "^17.0.0",
     "puppeteer-extra": "^3.2.3"
   },
   "devDependencies": {},
